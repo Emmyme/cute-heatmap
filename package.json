@@ -1,0 +1,24 @@
+{
+  "name": "cute-heatmap",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^22.0.0",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "svgson": "^5.2.1"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "description": ""
+}
