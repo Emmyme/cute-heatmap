@@ -67,7 +67,7 @@ https://cute-heatmap.vercel.app/api/heatmap?user=username&color=pink&shape=heart
 ### Cotton Candy Clouds
 
 ```
-/api/heatmap?user=octocat&color=cottoncandy&shape=clouds
+/api/heatmap?user=username&color=cottoncandy&shape=clouds
 ```
 
 ![Cotton Candy Clouds](https://cute-heatmap.vercel.app/api/heatmap?user=Emmyme&color=cottoncandy&shape=clouds)
